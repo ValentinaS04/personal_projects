@@ -1,0 +1,22 @@
+{
+  "name": "puppeter-scraping",
+  "version": "1.0.0",
+  "description": "Automated software testing with puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "puppeteer",
+    "Mocha",
+    "Chai",
+    "Automation"
+  ],
+  "author": "Valentina Sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.8",
+    "mocha": "^10.2.0",
+    "puppeteer": "^21.1.1"
+  }
+}
